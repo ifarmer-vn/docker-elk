@@ -16,3 +16,4 @@ discovery.type: single-node
 xpack.license.self_generated.type: trial
 xpack.security.enabled: true
 xpack.monitoring.collection.enabled: true
+thread_pool.write.queue_size: 5000
